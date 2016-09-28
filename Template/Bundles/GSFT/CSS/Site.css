@@ -1,0 +1,8 @@
+﻿
+.k-grid .k-grid-header th.k-header {
+    font-weight: bold;
+}
+
+.k-grid .k-grid-header th.k-header.text-center {
+    text-align: center;
+}

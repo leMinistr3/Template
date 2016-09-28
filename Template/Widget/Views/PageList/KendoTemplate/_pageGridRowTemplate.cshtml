@@ -1,0 +1,19 @@
+﻿
+<script id="_pageGridRowTemplate" type="text/x-kendo-template">
+
+    <tr class='k-alt'>
+        <td class='col-lg-4'><div> #= data.Name # </div></td>
+        <td class='col-lg-4'><div> #= data.ViewName # </div></td>
+        <td class='col-lg-2'>
+            # if(data.IsHomePage) { #
+            <i class="glyphicon glyphicon-ok"></i>
+            # } #
+        </td>
+        <td class='col-lg-1 text-center'>
+            <a id='#= data.PageId #' class='glyphicon glyphicon-edit prompt-create-edit-page-item' href='javascript:void(0)'></a>
+        </td>
+        <td class='col-lg-1 text-center'>
+            <a id='#= data.PageId #' class='glyphicon glyphicon-remove prompt-delete-page-item' href='javascript:void(0)'></a>
+        </td>
+    </tr>
+</script>

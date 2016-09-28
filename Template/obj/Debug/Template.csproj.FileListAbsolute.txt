@@ -1,0 +1,128 @@
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\ApplicationInsights.config
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\roslyn\csc.exe
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\roslyn\vbc.exe
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\roslyn\VBCSCompiler.exe
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Template.dll.config
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Template.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Template.pdb
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Antlr3.Runtime.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\EntityFramework.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\EntityFramework.SqlServer.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AI.Web.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Newtonsoft.Json.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Owin.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\System.Web.Helpers.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\System.Web.Mvc.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\System.Web.Optimization.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\System.Web.Razor.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\System.Web.WebPages.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\System.Web.WebPages.Razor.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\WebGrease.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AI.Web.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\System.Web.Helpers.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\System.Web.Mvc.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\System.Web.Optimization.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\System.Web.Razor.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\System.Web.WebPages.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\System.Web.WebPages.Razor.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Antlr3.Runtime.pdb
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Newtonsoft.Json.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\EntityFramework.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\EntityFramework.SqlServer.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\obj\Debug\Template.dll
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\obj\Debug\Template.pdb
+C:\Users\mnadeau\documents\visual studio 2015\Projects\Template\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\ApplicationInsights.config
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\roslyn\csc.exe
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\roslyn\vbc.exe
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\roslyn\VBCSCompiler.exe
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Template.dll.config
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Template.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Template.pdb
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Antlr3.Runtime.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\EntityFramework.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\EntityFramework.SqlServer.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AI.Web.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.ApplicationInsights.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Newtonsoft.Json.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Owin.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\System.Web.Helpers.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\System.Web.Mvc.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\System.Web.Optimization.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\System.Web.Razor.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\System.Web.WebPages.Deployment.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\System.Web.WebPages.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\System.Web.WebPages.Razor.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\WebGrease.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AI.Web.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.ApplicationInsights.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\System.Web.Helpers.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\System.Web.Mvc.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\System.Web.Optimization.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\System.Web.Razor.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\System.Web.WebPages.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\System.Web.WebPages.Deployment.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\System.Web.WebPages.Razor.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Antlr3.Runtime.pdb
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Newtonsoft.Json.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\EntityFramework.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\EntityFramework.SqlServer.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\obj\Debug\Template.dll
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\obj\Debug\Template.pdb
+C:\Users\C_User\OneDrive\Visual Studio\Template\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache

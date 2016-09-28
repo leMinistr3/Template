@@ -1,0 +1,31 @@
+﻿@model Template.Widget.Models.PageList.PageList_VM
+
+<div class="row">
+    <div class="col-lg-12">
+        <a class="btn btn-primary pull-right prompt-create-edit-page-item">Add new Page</a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        @(Html.Kendo().Grid<Template.Widget.Models.PageList.PageGridItem>()
+            .Name("PageGrid")
+            .Columns(c =>
+            {
+                c.Bound(p => p.Name).HeaderHtmlAttributes(new { @class = "col-lg-4" }).HeaderTemplate("Page Name");
+                c.Bound(p => p.ViewName).HeaderHtmlAttributes(new { @class = "col-lg-4" }).HeaderTemplate("View Name");
+                c.Bound(p => p.IsHomePage).HeaderHtmlAttributes(new { @class = "col-lg-2 text-center" }).HeaderTemplate("Home Page");
+                c.Bound("").HeaderHtmlAttributes(new { @class = "col-lg-2 text-center", colspan = 2 }).HeaderTemplate("<a class='k-link' href='javascript:void(0)'>Action</a>");
+            })
+            .ClientRowTemplate("#=renderPageGridRowTemplate(data)#")
+            .NoRecords(r => r.Template("No Record!"))
+            .DataSource(ds => ds.Ajax()
+            .Read(a => a.Action("GetPageGridItems", "PageList"))
+            .PageSize(10))
+            .Pageable()
+        )
+    </div>
+</div>
+
+@Html.Partial("~/Widget/Views/PageList/KendoTemplate/_pageGridRowTemplate.cshtml")
+

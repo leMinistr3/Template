@@ -1,0 +1,28 @@
+﻿@model Template.Template.Models.Master.Master_VM
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Test!!!</title>
+    @* STYLE *@
+    @Styles.Render("~/css/bootstrap")
+    @Styles.Render("~/css/kendo")
+    @Styles.Render("~/css/gsft")
+
+    @* SCRIPT *@
+    @Scripts.Render("~/js/jquery")
+    @Scripts.Render("~/js/bootstrap")
+    @Scripts.Render("~/js/kendo")
+</head>
+<body>
+    <div class="col-lg-12">
+        <div class="col-lg-6">
+            @Html.RenderWidget(Template.GSFTCore.Enumeration.WidgetFrom.Name, "Login")
+        </div>
+        <div class="col-lg-6">
+            @Html.RenderWidget(Template.GSFTCore.Enumeration.WidgetFrom.Position, "Right")
+        </div>
+    </div>
+</body>
+</html>
